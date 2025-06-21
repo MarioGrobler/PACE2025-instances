@@ -1,0 +1,29 @@
+c {"iid":80436,"name":"misc/great-britain_osm","description":"Connected component of node 1322491 in graph misc/great-britain_osm from https://networkrepository.com/. Directed edges were interpreted as simple and undirected.","submitted_by":"manpen"}
+p ds 28 27
+1 2
+2 3
+3 4
+3 13
+4 5
+5 6
+6 7
+7 8
+8 9
+9 10
+10 11
+11 12
+13 14
+14 15
+15 16
+16 17
+17 18
+18 19
+19 20
+20 21
+21 22
+22 23
+23 24
+24 25
+25 26
+26 27
+27 28

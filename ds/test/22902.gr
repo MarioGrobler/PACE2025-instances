@@ -1,0 +1,37 @@
+c {"iid":22902,"name":"bn/bn-human-Jung2015_M87111392","description":"Connected component of node 104177 in graph bn/bn-human-Jung2015_M87111392 from https://networkrepository.com/. Directed edges were interpreted as simple and undirected.","submitted_by":"manpen"}
+p ds 20 35
+1 2
+1 6
+1 7
+1 8
+1 15
+1 16
+1 17
+2 7
+2 9
+2 16
+3 8
+3 10
+3 17
+4 5
+4 11
+4 12
+4 13
+4 18
+4 19
+4 20
+5 12
+5 14
+5 19
+6 13
+6 15
+6 20
+7 16
+8 17
+11 18
+11 20
+12 19
+13 20
+14 19
+15 20
+18 20

@@ -1,0 +1,30 @@
+c {"iid":36520,"name":"massive/web-webbase-2001-all","description":"Connected component of node 115188936 in graph massive/web-webbase-2001-all from https://networkrepository.com/. Directed edges were interpreted as simple and undirected.","submitted_by":"manpen"}
+p ds 19 28
+1 2
+2 3
+2 4
+2 18
+3 18
+4 5
+4 18
+5 18
+6 7
+6 8
+7 9
+8 9
+8 11
+9 18
+10 11
+11 12
+11 13
+11 14
+11 18
+12 18
+13 14
+13 18
+14 18
+15 16
+15 18
+16 18
+17 18
+18 19

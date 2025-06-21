@@ -1,0 +1,18 @@
+c {"iid":54735,"name":"dimacs10/hugebubbles-00020","description":"Connected component of node 2811297 in graph dimacs10/hugebubbles-00020 from https://networkrepository.com/. Directed edges were interpreted as simple and undirected.","submitted_by":"manpen"}
+p ds 14 16
+1 8
+1 13
+1 14
+2 3
+2 7
+2 10
+3 8
+3 14
+4 5
+4 9
+4 11
+5 7
+5 10
+6 9
+6 11
+6 12

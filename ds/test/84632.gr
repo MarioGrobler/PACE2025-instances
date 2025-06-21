@@ -1,0 +1,20 @@
+c {"iid":84632,"name":"labeled/Tox21-ER-LBD","description":"Connected component of node 68318 in graph labeled/Tox21-ER-LBD from https://networkrepository.com/. Directed edges were interpreted as simple and undirected.","submitted_by":"manpen"}
+p ds 16 18
+1 2
+1 16
+2 3
+3 4
+4 5
+4 16
+5 6
+6 7
+6 15
+7 8
+8 9
+8 13
+9 10
+10 11
+11 12
+12 13
+13 14
+14 15

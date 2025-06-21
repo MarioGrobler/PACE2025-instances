@@ -1,0 +1,14 @@
+c {"iid":28640,"name":"misc/hugebubbles-00020","description":"Connected component of node 4101416 in graph misc/hugebubbles-00020 from https://networkrepository.com/. Directed edges were interpreted as simple and undirected.","submitted_by":"manpen"}
+p ds 13 12
+1 2
+1 10
+3 7
+4 5
+5 6
+6 9
+7 8
+8 10
+9 10
+9 13
+11 13
+12 13
