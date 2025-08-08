@@ -1,7 +1,7 @@
 This repository contains the problem instances for the [PACE Challenge 2025](https://pacechallenge.org/2025/ds/).
-Currently, the repository contains the following sets of instances.
- - Exact instances. These are the instances that have similar structural properties as the private instances that are used for the final evaluation of the exact tracks. These are also the instances used on optil.io.
- - Heuristic instances. These are the instances that have similar structural properties as the private instances that are used for the final evaluation of the heuristic tracks. These are also the instances used on optil.io. Note that we had to compress these instances in order to stay within the file size limit.
+To be precise, you can find the following sets of instances.
+ - Public exact instances. These are the instances that have similar structural properties as the private instances that are used for the final evaluation of the exact tracks. These are also the instances used on optil.io.
+ - Public heuristic instances. These are the instances that have similar structural properties as the private instances that are used for the final evaluation of the heuristic tracks. These are also the instances used on optil.io. Note that we had to compress these instances in order to stay within the file size limit.
  - Test instances. These instances are neither used for the evaluation nor do they have necessarily similar structural properties as the private instances. Instead, these instances are a mixture of classic and small graphs (as grids, trees, rings of cliques, the Petersen graph, ...), random graphs (Barabási-Albert graphs, Erdős–Rényi graphs, Watts–Strogatz graphs, ...), and a random sample from [Stride](https://domset.algorithm.engineering/) (thanks to Manuel Penschuck for this project!). For all these graphs, either the name or the first comment line gives a hint on which graph it is. The test instances for DS and HS are equivalent in the sense that the hyper graph `x.hgr` contains the set of closed neighborhoods of the graph `x.gr` and is hence an hitting set instance equivalent to the dominating set instance. Note that the `test` directories contain a directory `large` each with a small number of compressed instances (again in order to stay within the file size limit).
-
-After the final evaluation of all submitted solvers, we will also release the private instances on which the solvers are evaluated.
+ - Private instances. These instances were used for the final evaluation.
+ 
